@@ -17,6 +17,7 @@
 ---
 
 ## 🚀 Current Projects
+- 📊 **[linepeek](https://github.com/brunobrise/linepeek)** - VSCode extension to count lines of code.
 - 🛠️ **[devops-showcase](https://github.com/brunobrise/devops-showcase)** - Masterclass in IaC, CI/CD, and Cloud Native patterns.
 - 🤖 **[agent-nexus](https://github.com/brunobrise/agent-nexus)** - Autonomous agent framework for decentralized systems.
 
