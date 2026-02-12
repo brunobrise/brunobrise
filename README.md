@@ -20,6 +20,7 @@
 - 📊 **[linepeek](https://github.com/brunobrise/linepeek)** - VSCode extension to count lines of code.
 - 🛠️ **[devops-showcase](https://github.com/brunobrise/devops-showcase)** - Masterclass in IaC, CI/CD, and Cloud Native patterns.
 - 🤖 **[agent-nexus](https://github.com/brunobrise/agent-nexus)** - Autonomous agent framework for decentralized systems.
+- 💾 **[supabase-backup](https://github.com/brunobrise/supabase-backup)** - Comprehensive backup and restore utility for Supabase projects.
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -28,7 +29,7 @@
 - ⛓️ **Web3**: Solana, Ethereum, Polygon | Anchor, Hardhat, Web3.js, Ethers | DeFi, NFTs, DAOs
 - ☁️ **DevOps**: AWS, GCP, Azure, Scaleway | Docker, K8s, Helm, Terraform, Pulumi | GitHub Actions
 - 🔐 **Privacy**: SSI, DID, Verifiable Credentials, IPFS, Zero-knowledge proofs (ZKP)
-- 🗄️ **Data**: PostgreSQL, MongoDB, Redis, Pinecone, Weaviate
+- 🗄️ **Data**: PostgreSQL, Supabase, MongoDB, Redis, Pinecone, Weaviate
 
 ## 🎯 Focus
 - **Living in the future** - Mastering agentic engineering to build faster than ever.
