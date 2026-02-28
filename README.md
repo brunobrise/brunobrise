@@ -17,6 +17,7 @@
 ---
 
 ## 🚀 Current Projects
+- 🔍 **[x-feat](https://github.com/brunobrise/xfeat)** - Automated AI-driven CLI for codebase analysis and feature extraction.
 - 💾 **[supabase-backup](https://github.com/brunobrise/supabase-backup)** - Comprehensive backup and restore utility for Supabase projects.
 - 📊 **[linepeek](https://github.com/brunobrise/linepeek)** - VSCode extension to count lines of code.
 - 🛠️ **[devops-showcase](https://github.com/brunobrise/devops-showcase)** - Masterclass in IaC, CI/CD, and Cloud Native patterns.
