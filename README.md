@@ -17,6 +17,7 @@
 ---
 
 ## 🚀 Current Projects
+- 📄 **[jatteste.com](https://jatteste.com)** - Simple and secure generator for official attestations (housing, proof of honor, etc.).
 - 🔍 **[x-feat](https://github.com/brunobrise/xfeat)** - Automated AI-driven CLI for codebase analysis and feature extraction.
 - 💾 **[supabase-backup](https://github.com/brunobrise/supabase-backup)** - Comprehensive backup and restore utility for Supabase projects.
 - 📊 **[linepeek](https://github.com/brunobrise/linepeek)** - VSCode extension to count lines of code.
