@@ -17,6 +17,9 @@
 ---
 
 ## 🚀 Current Projects
+
+- 🛠️ **skills-learner** - Automated pipeline to learn from content and create structured, actionable AI agent skills via multi-stage LLM distillation.
+- 📈 **kinetis** - AI-driven market intelligence platform for tracking high-intent MicroSaaS opportunities with verified commercial signals.
 - 📄 **[jatteste.com](https://jatteste.com)** - Simple and secure generator for official attestations (housing, proof of honor, etc.).
 - 🔍 **[x-feat](https://github.com/brunobrise/xfeat)** - Automated AI-driven CLI for codebase analysis and feature extraction.
 - 💾 **[supabase-backup](https://github.com/brunobrise/supabase-backup)** - Comprehensive backup and restore utility for Supabase projects.
@@ -35,18 +38,22 @@
 - 🗄️ **Data**: PostgreSQL, Supabase, MongoDB, Redis, Pinecone, Weaviate
 
 ## 🎯 Focus
+
 - **Living in the future** - Mastering agentic engineering to build faster than ever.
 - **Scaling Clouds** - Automating complex infrastructure with Kubernetes and Terraform.
 - **AI Integration** - Implementing LLM workflows into modern platforms.
 - **Web3 Research** - Diving deep into ZK-proofs and cross-chain communication.
 
 ## 📊 GitHub Activity
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/brunobrise)
 
 ## 🧠 Philosophy
+
 > "The best code is written by humans who live full lives outside of code. Ship fast, iterate faster, and never stop learning."
 
 ## 🌱 Touching grass
+
 <details>
 <summary>Random Facts & Obsessions</summary>
 
@@ -62,10 +69,11 @@
 ## 📡 Connect
 
 **Reach out if you want to talk about:**
+
 - 🏗️ Scaling infrastructure without the "Kubernetes tax"
 - 🕵️ Decentralized identity and the future of SSI
 - 🤖 Writing "vibe-code" that actually ships to production
-- 🎬 Why Villeneuve’s *Arrival* is the perfect sci-fi movie
+- 🎬 Why Villeneuve’s _Arrival_ is the perfect sci-fi movie
 
 [![LinkedIn](https://img.shields.io/badge/-Bruno_Brise-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunobrise)
 [![X](https://img.shields.io/badge/-@brunobrise-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://x.com/brunobrise)
