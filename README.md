@@ -18,8 +18,9 @@
 
 ## 🚀 Current Projects
 
-- 🛠️ **skills-learner** - Automated pipeline to learn from content and create structured, actionable AI agent skills via multi-stage LLM distillation.
 - 📈 **kinetis** - AI-driven market intelligence platform for tracking high-intent MicroSaaS opportunities with verified commercial signals.
+- 🛠️ **skills-learner** - Automated pipeline to learn from content and create structured, actionable AI agent skills via multi-stage LLM distillation.
+- 🧬 **[genomx](https://github.com/brunobrise/genomx)** - Private, advanced genomic analytics platform for bioinformatic analysis and Polygenic Risk Scoring (PRS).
 - 📄 **[jatteste.com](https://jatteste.com)** - Simple and secure generator for official attestations (housing, proof of honor, etc.).
 - 🔍 **[x-feat](https://github.com/brunobrise/xfeat)** - Automated AI-driven CLI for codebase analysis and feature extraction.
 - 💾 **[supabase-backup](https://github.com/brunobrise/supabase-backup)** - Comprehensive backup and restore utility for Supabase projects.
