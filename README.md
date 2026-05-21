@@ -1,6 +1,6 @@
 # Hi, I'm Bruno 👋
 
-**Agentic Platform Engineer** | **SSI & Decentralized Systems**
+**Platform Engineer** | **SSI & Decentralized Systems**
 
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -18,17 +18,26 @@
 
 ## 🚀 Current Projects
 
-- 📈 **kinetis** - AI-driven market intelligence platform for tracking high-intent MicroSaaS opportunities with verified commercial signals.
-- 🛠️ **skills-learner** - Automated pipeline to learn from content and create structured, actionable AI agent skills via multi-stage LLM distillation.
-- 🧬 **[genomx](https://github.com/brunobrise/genomx)** - Private, advanced genomic analytics platform for bioinformatic analysis and Polygenic Risk Scoring (PRS).
-- 📄 **[jatteste.com](https://jatteste.com)** - Simple and secure generator for official attestations (housing, proof of honor, etc.).
-- 🔍 **[x-feat](https://github.com/brunobrise/xfeat)** - Automated AI-driven CLI for codebase analysis and feature extraction.
-- 💾 **[supabase-backup](https://github.com/brunobrise/supabase-backup)** - Comprehensive backup and restore utility for Supabase projects.
-- 📊 **[linepeek](https://github.com/brunobrise/linepeek)** - VSCode extension to count lines of code.
-- 🛠️ **[devops-showcase](https://github.com/brunobrise/devops-showcase)** - Masterclass in IaC, CI/CD, and Cloud Native patterns.
-- 🤖 **[agent-nexus](https://github.com/brunobrise/agent-nexus)** - Autonomous agent framework for decentralized systems.
-- 🛡️ **[quitblock](https://github.com/brunobrise/quitblock)** - VSCode extension to prevent accidental editor exits.
+### Keep / Showcase
 
+- 🔁 **continuum** - Founder workspace for market evidence, bets, decisions, and learning.
+- 🧭 **x-tools** - Privacy-focused X/Twitter export and archive tools for CLI and browser workflows.
+- 🛠️ **skilldrill** - Turns content into agent skills.
+- 🧠 **nerobase** - Knowledge governance for finding stale, contradictory, missing, and low-trust team docs.
+- 🗣️ **[barespeak](https://github.com/brunobrise/barespeak)** - Communication system for clearer team messages and multilingual meaning transfer.
+- 🪓 **[tokut](https://github.com/brunobrise/tokut)** - Rust CLI proxy for compressing agent tool output while keeping raw references.
+- 🕵️ **[spynet](https://github.com/brunobrise/spynet)** - Privacy-focused Rust network monitor for workstation traffic, suspicious-flow detection, and alert summaries.
+- 🧬 **[genomx](https://genomx.brunobrise.com)** - Private genomic analytics platform for bioinformatic analysis and Polygenic Risk Scoring (PRS).
+- 📈 **kinetis** - Market intelligence platform for tracking high-intent MicroSaaS opportunities with commercial signals.
+- 📄 **[jatteste.com](https://jatteste.com)** - Simple and secure generator for official attestations (housing, proof of honor, etc.).
+-  **hexagon** - Tool for mining structured opportunities signals.
+- 📚 **market-researcher** - Market research, validation, competitor analysis, and backlog generation toolkit.
+- ⚖️ **legi-france** - Pipeline for downloading, parsing, and consolidating French LEGI legislative data.
+- 🏠 **logement-dpe** - Rust extraction pipeline for French ADEME DPE housing energy data.
+- 🦀 **[crevette](https://github.com/brunobrise/openclaw-rs)** - Rust workflow runtime for secure agent execution infrastructure.
+- 🍽️ **kidmil** - Family meal planning app for adults and growing children.
+- 📊 **[linepeek](https://github.com/brunobrise/linepeek)** - VSCode extension to count lines of code.
+- 🛡️ **[quitblock](https://github.com/brunobrise/quitblock)** - VSCode extension to prevent accidental editor exits.
 ## 🛠️ Tech Stack & Expertise
 
 - 💻 **Core**: TS, JS, Python, Rust, Go, Solidity | React, Next.js, Svelte, Tailwind | Node, FastAPI, GraphQL
@@ -40,7 +49,7 @@
 
 ## 🎯 Focus
 
-- **Living in the future** - Mastering agentic engineering to build faster than ever.
+- **Living in the future** - Building practical tools and workflows that ship faster.
 - **Scaling Clouds** - Automating complex infrastructure with Kubernetes and Terraform.
 - **AI Integration** - Implementing LLM workflows into modern platforms.
 - **Web3 Research** - Diving deep into ZK-proofs and cross-chain communication.
