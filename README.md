@@ -21,6 +21,7 @@
 ### Keep / Showcase
 
 - 🔁 **continuum** - Founder workspace for market evidence, bets, decisions, and learning.
+- 🔎 **[tf-drift](https://github.com/brunobrise/tf-drift)** - Go CLI/TUI for detecting Terraform and OpenTofu drift across multi-layer workspaces.
 - 🧭 **x-tools** - Privacy-focused X/Twitter export and archive tools for CLI and browser workflows.
 - 🛠️ **skilldrill** - Turns content into agent skills.
 - 🧠 **nerobase** - Knowledge governance for finding stale, contradictory, missing, and low-trust team docs.
