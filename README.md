@@ -20,6 +20,7 @@
 
 ### Keep / Showcase
 
+- 🪟 **[cascade](https://github.com/brunobrise/cascade)** - macOS window manager that keeps every window full-size and always clickable.
 - 🔁 **continuum** - Founder workspace for market evidence, bets, decisions, and learning.
 - 🔎 **[tf-drift](https://github.com/brunobrise/tf-drift)** - Go CLI/TUI for detecting Terraform and OpenTofu drift across multi-layer workspaces.
 - 🧭 **x-tools** - Privacy-focused X/Twitter export and archive tools for CLI and browser workflows.
